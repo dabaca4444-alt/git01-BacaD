@@ -6,6 +6,8 @@ Vyberte si Linuxovou distribuci a pomocí Vagrantu si připravte vlastní virtu�
 
 ![Git, Vagrant a Linux – naše první virtuální laboratoř](./Images/AI-photo.jpg)
 
+Prompt použit pro generaci obrázku: Generate me a photo of Tux (From linux) add something IT themed in the background
+
 ## Moje řešení
 
 
